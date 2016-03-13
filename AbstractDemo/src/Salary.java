@@ -32,6 +32,10 @@ public class Salary  extends Employee {
 	      return salary/52;
 	   }
 	
+	   public void sayHello(String name) {
+		   System.out.printf("hi, %s", name);
+		   
+	   }
 
 	
 }
