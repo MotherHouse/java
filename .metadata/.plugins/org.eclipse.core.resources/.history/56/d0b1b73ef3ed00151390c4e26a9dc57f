@@ -1,9 +1,0 @@
- package 数组;
-public class 字符串数组{
-
-   public static void main(String args[]){
-      char[] helloArray = { 'h', 'e', 'l', 'l', 'o', '.'};
-      String helloString = new String(helloArray);  
-      System.out.println( helloString );
-   }
-}
